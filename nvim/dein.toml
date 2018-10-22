@@ -5,6 +5,9 @@ repo = 'Shougo/dein.vim'
 repo = 'Shougo/vimproc.vim'
 
 [[plugins]]
+repo = 'Shougo/unite.vim'
+
+[[plugins]]
 repo = 'w0ng/vim-hybrid'
 
 [[plugins]]
